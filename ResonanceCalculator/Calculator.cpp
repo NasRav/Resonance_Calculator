@@ -5,7 +5,7 @@ using namespace ResonanceCalculator;
 [STAThreadAttribute]
 int main(array<System::String^>^ args)
 {
-	// Enabling Windows XP visual effects before any controls are created
+	// Enabling Windows visual effects before any controls are created
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
 
